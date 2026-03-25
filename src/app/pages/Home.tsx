@@ -66,7 +66,7 @@ export function Home() {
       {/* Hero Banner */}
       <div className="relative h-[500px] overflow-hidden">
         <img 
-          src="https://images.unsplash.com/photo-1759390304567-c322de52f8bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxpbmR1c3RyaWFsJTIwY3JhbmUlMjBmYWN0b3J5JTIwbWFudWZhY3R1cmluZ3xlbnwxfHx8fDE3NzM1NTc0OTl8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
+          src="/media/banners/home-banner.jpg"
           alt="Industrial Equipment" 
           className="w-full h-full object-cover"
         />

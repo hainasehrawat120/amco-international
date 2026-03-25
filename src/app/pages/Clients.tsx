@@ -34,7 +34,7 @@ export function Clients() {
       {/* Banner */}
       <div className="relative h-[300px] overflow-hidden">
         <img 
-          src="https://images.unsplash.com/photo-1678984240142-28438aec347e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxpbmR1c3RyaWFsJTIwd2FyZWhvdXNlJTIwbWFjaGluZXJ5fGVufDF8fHx8MTc3MzU1NDUzMXww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
+          src="/media/banners/clients-banner.jpg"
           alt="Our Clients" 
           className="w-full h-full object-cover"
         />

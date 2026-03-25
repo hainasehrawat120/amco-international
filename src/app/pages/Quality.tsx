@@ -6,7 +6,7 @@ export function Quality() {
       {/* Banner */}
       <div className="relative h-[300px] overflow-hidden">
         <img 
-          src="https://images.unsplash.com/photo-1768796372343-99ed316eb5ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxxdWFsaXR5JTIwY29udHJvbCUyMG1hbnVmYWN0dXJpbmclMjBpbnNwZWN0aW9ufGVufDF8fHx8MTc3MzU1NzUwMXww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
+          src="/media/banners/quality-banner.jpg"
           alt="Quality" 
           className="w-full h-full object-cover"
         />

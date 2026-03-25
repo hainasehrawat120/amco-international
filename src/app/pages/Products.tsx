@@ -61,7 +61,7 @@ export function Products() {
       {/* Banner */}
       <div className="relative h-[300px] overflow-hidden">
         <img 
-          src="https://images.unsplash.com/photo-1767281075989-7571356d477e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxmYWN0b3J5JTIwcHJvZHVjdGlvbiUyMGxpbmUlMjBlcXVpcG1lbnR8ZW58MXx8fHwxNzczNTU3NTAxfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
+          src="/media/banners/products-banner.jpg"
           alt="Products" 
           className="w-full h-full object-cover"
         />
